@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    flex-direction: row;
+}
+span {
+    text-transform: uppercase;
+    font-size: 2em;
+    padding: 1em;
+    transform: rotate(90deg);
+}
